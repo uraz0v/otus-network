@@ -1,1 +1,1 @@
-# otus-network-basic-labs-
+# otus-network

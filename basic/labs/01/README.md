@@ -1,5 +1,5 @@
 # Топология
-
+![This is an alt text.]([/img/topology.img](https://github.com/uraz0v/otus-network/blob/main/basic/labs/01/img/topology.png?raw=true) "Топология")
 # Таблица адресации
 |Устройство|Интерфейс|IP-адрес / префикс|
 |----------|---------|------------------|
